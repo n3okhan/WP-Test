@@ -6,7 +6,7 @@ consuming webservices api using wordpress
 
 2. Create a fake api using REST API with JSON Server (https://github.com/typicode/json-server).
 ### file name db.json 
-
+`
 {
   "categories": [
     {
@@ -51,7 +51,7 @@ consuming webservices api using wordpress
     }
   ]
 }
-
+`
 
 # Work left in progress
 - "Update categories now" button click event (it running by default, not on demand at the moment)
