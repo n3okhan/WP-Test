@@ -60,7 +60,7 @@ file name db.json
 # How long the test took to complete
 It took me 4-5 hours
 
-# A short paragraph outlining what you thought of the test
+# My thoughts
 This is the first time I did something like this on WordPress. I really enjoyed developing it and it was really fun learning this aspect of WordPress.
 
 
