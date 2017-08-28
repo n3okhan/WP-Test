@@ -5,6 +5,15 @@ Copy the MenuTest.php under wordpress plugin directory and activate the plugin
 
 create a fake api using REST API with JSON Server (https://github.com/typicode/json-server).
 
+The items which are not done yet
+
+- "Update categories now" button click event (it running by default, not on demand at the moment)
+- 30 seconds check
+- parent/child relation 
+
+
+
+
 file name db.json 
 {
   "categories": [
