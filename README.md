@@ -2,10 +2,11 @@
 consuming webservices api using wordpress
 
 # Setup notes 
-1.Copy the MenuTest.php under wordpress plugin directory and activate the plugin
+1. Copy the MenuTest.php under wordpress plugin directory and activate the plugin
 
 2. Create a fake api using REST API with JSON Server (https://github.com/typicode/json-server).
-file name db.json 
+### file name db.json 
+
 {
   "categories": [
     {
