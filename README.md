@@ -1,19 +1,10 @@
 # WP-Test
 consuming webservices api using wordpress
 
-Copy the MenuTest.php under wordpress plugin directory and activate the plugin
+#Setup notes
+1.Copy the MenuTest.php under wordpress plugin directory and activate the plugin
 
-create a fake api using REST API with JSON Server (https://github.com/typicode/json-server).
-
-The items which are not done yet
-
-- "Update categories now" button click event (it running by default, not on demand at the moment)
-- 30 seconds check
-- parent/child relation 
-
-
-
-
+2. Create a fake api using REST API with JSON Server (https://github.com/typicode/json-server).
 file name db.json 
 {
   "categories": [
@@ -59,3 +50,17 @@ file name db.json
     }
   ]
 }
+
+
+#Work left in progress
+- "Update categories now" button click event (it running by default, not on demand at the moment)
+- 30 seconds check
+- parent/child relation 
+
+#How long the test took to complete
+It took me 4-5 hours
+
+#A short paragraph outlining what you thought of the test
+This is the first time I did something like this on WordPress. I really enjoyed developing it and it was really fun learning this aspect of WordPress.
+
+
