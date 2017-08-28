@@ -1,5 +1,5 @@
 # WP-Test
-consuming webservices api using wordpress
+Consuming external API using wordpress
 
 # Setup notes 
 1. Copy the MenuTest.php under wordpress plugin directory and activate the plugin
