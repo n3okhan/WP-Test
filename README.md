@@ -60,6 +60,10 @@ Consuming external API using wordpress
 It took me 10-12 hours
 
 # My thoughts
-This is the first time I did something like this on WordPress. I really enjoyed developing it and it was really fun learning this aspect of WordPress.
+This is the first time I did something like this on WordPress. 
+
+I really enjoyed developing it and it was really fun learning this aspect of WordPress.
+
+Since its a plugin you can enable and disable this feature
 
 
