@@ -60,7 +60,7 @@ Consuming external API using wordpress
 It took me 10-12 hours
 
 # My thoughts
-I am not a PHP or WordPress backend Dev.
+I am not a PHP developer.
 
 This is the first time I did something like this on WordPress. 
 
