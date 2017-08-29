@@ -54,9 +54,7 @@ Consuming external API using wordpress
 `
 
 # Work left in progress
-- "Update categories now" button click event (it running by default, not on demand at the moment)
 - 30 seconds check
-- parent/child relation 
 
 # How long the test took to complete
 It took me 4-5 hours
