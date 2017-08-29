@@ -54,7 +54,7 @@ Consuming external API using wordpress
 `
 
 # Work left in progress
-- 30 seconds check
+- 30 Minutes check
 
 # How long the test took to complete
 It took me 10-12 hours
